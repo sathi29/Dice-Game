@@ -40,3 +40,9 @@
   
   }
   
+  footer p{
+    color: #FE7E6D;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: 'Work Sans', sans-serif;
+  }
